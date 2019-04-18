@@ -5,7 +5,7 @@
 Backend.py -> searching/sorting algorithm, backend operations for canteens
 Dictionary.py -> food database
 inputscreen.py -> input GUI
-MasterConsole.py -> main program, like an executable
+MasterConsole.py -> main program
 outputscreen.py -> output GUI (shows top 5 canteen results to user)
 pathdisplay.py -> transport GUI (shows transport route)
 savefile.out -> contains autofill info
